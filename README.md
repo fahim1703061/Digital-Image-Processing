@@ -37,3 +37,7 @@ https://colab.research.google.com/drive/1nKL_blviW3VvufGVMSVsMXFCPzIJt9bS#scroll
 
 https://github.com/Aukerul-Shuvo/Digital-Image-Processing/blob/main/1603061_DIP_Lab.ipynb
 
+### 9. k-means using cv2
+
+https://www.geeksforgeeks.org/image-segmentation-using-k-means-clustering/
+
