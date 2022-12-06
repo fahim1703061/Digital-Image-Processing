@@ -11,3 +11,8 @@ https://colab.research.google.com/drive/1_cvWDobZWGzDCf4RQ3yEHKmDLCuk11hL#scroll
 ### 2. Morphological
 
 https://colab.research.google.com/drive/1i_gYtBV-nk5BKqMkS5uoxI13Q2P5iyXw#scrollTo=zPrJSALXyeer
+
+
+### 3. Segmentation
+
+https://colab.research.google.com/drive/1SN6QegyKOpDnYXrCFG3FD5YhRzetD0Qe#scrollTo=V2ak6vMxXqe2
