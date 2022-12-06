@@ -16,3 +16,7 @@ https://colab.research.google.com/drive/1i_gYtBV-nk5BKqMkS5uoxI13Q2P5iyXw#scroll
 ### 3. Segmentation
 
 https://colab.research.google.com/drive/1SN6QegyKOpDnYXrCFG3FD5YhRzetD0Qe#scrollTo=V2ak6vMxXqe2
+
+### 4. histequalize
+
+https://colab.research.google.com/drive/1O4v0uidipGMz-b408PCRMIBgdpHxFq1z#scrollTo=A0B7gGwR1dL1
