@@ -21,7 +21,7 @@ https://colab.research.google.com/drive/1SN6QegyKOpDnYXrCFG3FD5YhRzetD0Qe#scroll
 
 https://colab.research.google.com/drive/1O4v0uidipGMz-b408PCRMIBgdpHxFq1z#scrollTo=A0B7gGwR1dL1
 
-### 5. histogram and thresolding, log, gamma correct
+### 5. histogram and thresholding, log, gamma correct
 
 https://colab.research.google.com/drive/1g2OsxJ3aHhqdj6NJtpZcZ_z3M0jB8c3U#scrollTo=v8EJF6PhJ4V3
 
