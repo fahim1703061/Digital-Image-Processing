@@ -41,3 +41,11 @@ https://github.com/Aukerul-Shuvo/Digital-Image-Processing/blob/main/1603061_DIP_
 
 https://www.geeksforgeeks.org/image-segmentation-using-k-means-clustering/
 
+### 10. spectral correlation and agerage filter on blur and high contrast image
+
+https://colab.research.google.com/drive/1sxmGexDp57sN9K_k8jXQi0r9W8cBCYpN#scrollTo=i97yHOnPjQXt
+
+shuvo vai
+
+https://github.com/Aukerul-Shuvo/Digital-Image-Processing
+
